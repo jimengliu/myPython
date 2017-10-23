@@ -1,0 +1,5 @@
+[DEFAULT]
+serviceName = TestServiceName
+serviceDisplayName = TestServiceDisplayName
+serviceDescription = TestServiceDescription
+servicePort = 6000
